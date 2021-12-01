@@ -1,6 +1,8 @@
 # Modelling-Nonlinear-Pendulums
 A 3D simulation of damped and undamped nonlinear pendulums using VPython.
 
+*Archived project from 2019*
+
 ## Run the code in your browser
 Click this button to run the code in your browser:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZainNaqavi/Modelling-Nonlinear-Pendulums/main?filepath=Modelling_Non-linear_Pendulums.ipynb)
